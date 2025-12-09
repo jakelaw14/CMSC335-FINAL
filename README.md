@@ -1,9 +1,9 @@
 # CMSC335-FINAL
-**Submitted by:** Rose Smith (superterp)
+**Submitted by:** Jacob Lawrence
 
-**Group Members:** Rose Smith (superterp), Peter Santos (pmegaterp)
+**Group Members:** Lauren Greig
 
-**App Description:** Allow users to find images, songs of an author, and store/retrieve the results.
+**App Description:** Adding
 
 **YouTube Video Link:** https://www.youtube.com/MyAmazingAPP
 
