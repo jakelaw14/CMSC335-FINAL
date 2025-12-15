@@ -11,4 +11,4 @@
 
 **Contact Email:** lgreig@terpmail.umd.edu
 
-**Deployed App Link:** https://notreal.what.terpNel/myApp](https://cmsc335-final-e5u3.onrender.com/players
+**Deployed App Link:** https://cmsc335-final-e5u3.onrender.com/players
