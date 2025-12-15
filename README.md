@@ -1,14 +1,14 @@
 # CMSC335-FINAL
-**Submitted by:** Jacob Lawrence
+**Submitted by:** Jacob Lawrence (jakelaw1)
 
-**Group Members:** Lauren Greig
+**Group Members:** Jacob Lawrence (jakelaw1), Lauren Greig (lgreig)
 
-**App Description:** Adding
+**App Description:** This app allows users to look up NBA players by entering a player ID, fetches real data from the balldontlie API, and saves each player to MongoDB for later viewing. A dedicated Players page displays all saved entries and includes a Clear Search History button to remove all stored data.
 
-**YouTube Video Link:** https://www.youtube.com/MyAmazingAPP
+**YouTube Video Link:** https://youtu.be/pdiT30QhMec
 
-**APIs:** VideoApp (http:notrealvideoapp.what), SoundApp (http:notreadlsoundapp.what)
+**APIs:** balldontlie NBA api (https://www.balldontlie.io/)
 
-**Contact Email:** superterp@notreal.address.what
+**Contact Email:** lgreig@terpmail.umd.edu
 
 **Deployed App Link:** https://notreal.what.terpNel/myApp
