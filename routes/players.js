@@ -38,4 +38,14 @@ router.get("/", async (req, res) => {
     res.render("players", { players });
 });
 
+router.post("/clear", async (req, res) => {
+    try {
+        await Player.deleteMany({});
+        res.redirect("/players");
+    } catch (err) {
+        console.error(err);
+        res.status(500).send("Error clearing players: " + err);
+    }
+});
+
 module.exports = router;
